@@ -1,0 +1,8 @@
+.candies-container {
+    background-color: rgb(246, 242, 219);
+}
+
+.candies-container > h1 {
+    font-family: fantasy;
+    text-align: center;
+}
